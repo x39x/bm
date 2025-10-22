@@ -1,0 +1,48 @@
+body {
+    width: 59%;
+    max-width: 600px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 普通状态颜色 */
+a:link,
+a:visited {
+    display: inline-block;
+    margin: 5px 0px;
+    color: blue;
+    text-decoration: none;
+}
+
+/* 悬停颜色 */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* 点击颜色 */
+a:active {
+    color: blue;
+}
+
+/* nav bar margin */
+a.nav-link {
+    margin-right: 1.5rem;
+}
+
+/* ipad */
+@media screen and (max-width: 1024px) {
+    body {
+        margin: 63px auto;
+        width: 63%;
+    }
+}
+
+/* phone */
+@media screen and (max-width: 768px) {
+    body {
+        margin: 93px auto;
+        width: 79%;
+    }
+}
