@@ -2,6 +2,10 @@
     export let data: {
         links: Record<string, { url: string; dsc: string }[]>;
     };
+
+    // 判断是否为外链的辅助函数
+    const isExternal = (url: string) =>
+        url.startsWith("http://") || url.startsWith("https://");
 </script>
 
 {#each Object.entries(data.links) as [category, items]}
@@ -9,9 +13,17 @@
     <div>
         {#each items as item}
             <div>
-                <a href={item.url} target="_blank" rel="noopener noreferrer">
-                    {item.dsc}
-                </a>
+                {#if isExternal(item.url)}
+                    <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        {item.dsc}
+                    </a>
+                {:else}
+                    <a href={item.url}>{item.dsc}</a>
+                {/if}
             </div>
         {/each}
     </div>

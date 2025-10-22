@@ -10,9 +10,7 @@ export const load: LayoutLoad = async () => {
         .filter(Boolean) as string[];
 
     // 确保 Home 在第一位
-    slugs = slugs.filter((s) => s !== "Home");
-    slugs = slugs.filter((s) => s !== "Dev");
-    slugs = slugs.filter((s) => s !== "p");
+    slugs = slugs.filter((s) => !["Home", "Dev", "p"].includes(s));
     slugs.unshift("Dev");
     slugs.unshift("Home");
 

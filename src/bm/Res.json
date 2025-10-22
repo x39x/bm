@@ -39,12 +39,24 @@
     ],
     "无损音乐下载": [
         {
-            "url": "https://www.hifini.com",
-            "dsc": "HiFINI"
-        },
-        {
             "url": "https://flac.life/",
             "dsc": "无损生活"
+        },
+        {
+            "url": "https://www.hifini.com",
+            "dsc": "HiFINI（已关站，以下备份站均为蹭热度，但能用）"
+        },
+        {
+            "url": "https://www.hifiti.com/",
+            "dsc": "hifiTi"
+        },
+        {
+            "url": "https://hifinie.com",
+            "dsc": "hifiniE"
+        },
+        {
+            "url": "https://hifiki.com/",
+            "dsc": "hifiKi"
         }
     ],
     "音乐搜索下载": [
@@ -65,28 +77,16 @@
             "dsc": "下歌吧"
         },
         {
-            "url": "https://www.gequbao.com",
-            "dsc": "歌曲宝"
-        },
-        {
             "url": "https://www.acgjc.com",
             "dsc": "ACG漫音社"
         },
         {
-            "url": "https://music.wandhi.com",
-            "dsc": "全网音乐搜索下载 1"
-        },
-        {
             "url": "https://www.yeyulingfeng.com/tools/music",
-            "dsc": "多站合一音乐搜索 2"
-        },
-        {
-            "url": "https://music.wujiyan.cc",
-            "dsc": "多站合一音乐搜索 3"
+            "dsc": "多站合一音乐搜索 1"
         },
         {
             "url": "http://www.songe.cc",
-            "dsc": "多站合一音乐搜索 4"
+            "dsc": "多站合一音乐搜索 2"
         }
     ],
     "漫画": [

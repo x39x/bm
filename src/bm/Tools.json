@@ -51,6 +51,10 @@
         {
             "url": "https://dnsspeedtest.online",
             "dsc": "DNS Speed Test Benchmark - Find the Fastest DNS Server for Your Location"
+        },
+        {
+            "url": "/p",
+            "dsc": "この素晴らしい世界に祝福を！"
         }
     ],
     "Math": [
