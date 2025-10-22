@@ -6,8 +6,7 @@
     "scripts": {
         "dev": "vite dev",
         "push": "node push.ts",
-        "build": "vite build",
-        "build:svelteconfig": "esbuild svelte.config.ts --outfile=svelte.config.js",
+        "build": "esbuild svelte.config.ts --outfile=svelte.config.js && vite build",
         "preview": "vite preview",
         "prepare": "svelte-kit sync || echo ''",
         "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",

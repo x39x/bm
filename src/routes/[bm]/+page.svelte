@@ -3,7 +3,7 @@
         links: Record<string, { url: string; dsc: string }[]>;
     };
 
-    // 判断是否为外链的辅助函数
+    // 判断是否为外链
     const isExternal = (url: string) =>
         url.startsWith("http://") || url.startsWith("https://");
 </script>
