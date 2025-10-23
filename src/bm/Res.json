@@ -99,6 +99,12 @@
             "dsc": "次元狗"
         }
     ],
+    "图书": [
+        {
+            "url": "https://zh.annas-archive.org",
+            "dsc": "安娜的档案、人类历史上最大的完全开放的图书馆"
+        }
+    ],
     "Mac 软件下载": [
         {
             "url": "https://appstorrent.ru",
