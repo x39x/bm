@@ -1,34 +1,29 @@
 {
     "在线影视": [
         {
-            "url": "https://www.xiaobaotv.com/",
-            "dsc": "小宝影院"
-        },
-        {
-            "url": "tps://gaze.run",
+            "url": "https://gaze.run",
             "dsc": "注视影视"
         },
         {
-            "url": "https://ddys.pro/",
-            "dsc": "低端影视"
-        },
-        {
-            "url": "https://www.qindedy.com/",
-            "dsc": "亲的电影网"
+            "url": "https://www.xiaobaotv.com/",
+            "dsc": "小宝影院"
         },
         {
             "url": "https://v.ikanbot.com/",
             "dsc": "爱看机器人"
         },
         {
-            "url": "https://soupian.pro/",
-            "dsc": "搜片"
+            "url": "https://www.qindedy.com/",
+            "dsc": "亲的电影网"
         },
         {
-            "url": "",
-            "dsc": ""
+            "url": "https://ddys.pro/",
+            "dsc": "低端影视"
         },
-
+        {
+            "url": "https://soupian.pro/",
+            "dsc": "搜片「在线、磁力、网盘」"
+        },
         {
             "url": "https://iui.su/531/",
             "dsc": "在线影视网站汇总"
@@ -139,11 +134,11 @@
         },
         {
             "url": "https://tonzhon.com",
-            "dsc": "铜钟「李鬼」"
+            "dsc": "铜钟「备份」"
         },
         {
             "url": "https://5sing.kugou.com",
-            "dsc": "5sing"
+            "dsc": "5Sing"
         },
         {
             "url": "https://xiageba.com",
@@ -160,6 +155,24 @@
         {
             "url": "http://www.songe.cc",
             "dsc": "多站合一音乐搜索 2"
+        }
+    ],
+    "ASMR": [
+        {
+            "url": "https://eatasmr.com/",
+            "dsc": "聆聽， 放鬆身心"
+        },
+        {
+            "url": "https://www.asmr.one/",
+            "dsc": "Kikoeru「R18」"
+        },
+        {
+            "url": "https://hentaiasmr.moe/",
+            "dsc": "HenTai ASMR「R18」"
+        },
+        {
+            "url": "https://japaneseasmr.com/",
+            "dsc": "Japan ASMR「R18」"
         }
     ],
 

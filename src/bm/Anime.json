@@ -62,12 +62,6 @@
             "dsc": "Anime1.me"
         }
     ],
-    "以图识番": [
-        {
-            "url": "https://trace.moe/",
-            "dsc": "Trace"
-        }
-    ],
     "BT｜网盘下载": [
         {
             "url": "https://dmhy.anoneko.com",
@@ -120,29 +114,33 @@
         },
         {
             "url": "https://gmgard.com/",
-            "dsc": "紳士の庭「百度」"
+            "dsc": "紳士の庭「度盘」"
         },
         {
             "url": "https://tokyo-tosho.net",
-            "dsc": "東京 図書館「日文生肉」"
+            "dsc": "東京 図書館「生肉」"
         },
         {
             "url": "https://www.tokyotosho.info",
             "dsc": "東京 図書館「备份」"
         }
     ],
-    "漫画": [
+    "漫画｜在线、下载": [
+        {
+            "url": "https://www.acgndog.com",
+            "dsc": "次元狗「下载」"
+        },
         {
             "url": "https://mox.moe",
-            "dsc": "Kmoe"
+            "dsc": "Kmoe「下载」"
+        },
+        {
+            "url": "https://www.colamanga.com",
+            "dsc": "COLAMANGA「国漫、韩漫」"
         },
         {
             "url": "https://www.manhuagui.com",
             "dsc": "漫画柜"
-        },
-        {
-            "url": "https://www.colamanga.com",
-            "dsc": "COLAMANGA"
         },
         {
             "url": "https://www.mangacopy.com",
@@ -151,62 +149,32 @@
         {
             "url": "https://www.mangabz.com",
             "dsc": "Mangabz"
-        },
-        {
-            "url": "https://www.acgndog.com",
-            "dsc": "次元狗"
         }
     ],
-    "BT 下载器": [
+    "MISC": [
         {
-            "url": "https://www.qbittorrent.org/",
-            "dsc": "qBittorrent"
+            "url": "https://trace.moe/",
+            "dsc": "Trace「以图识番」"
         },
         {
-            "url": "https://www.frostwire.com/",
-            "dsc": "FrostWire"
+            "url": "https://www.acgcydh.com",
+            "dsc": "ACG次元导航「资源聚合」"
         },
         {
-            "url": "https://www.utorrent.com/",
-            "dsc": "uTorrent"
-        }
-    ],
-    "ASMR": [
-        {
-            "url": "https://eatasmr.com/",
-            "dsc": "聆聽， 放鬆身心"
+            "url": "https://www.acgbox.link",
+            "dsc": "ACG盒子「资源聚合」"
         },
         {
-            "url": "https://hentaiasmr.moe/",
-            "dsc": "HenTai ASMR."
+            "url": "https://www.dlsite.com",
+            "dsc": "DLsiTe｜同人资源"
         },
-        {
-            "url": "https://japaneseasmr.com/",
-            "dsc": "Japan ASMR"
-        },
-        {
-            "url": "https://www.asmr.one/",
-            "dsc": "Kikoeru"
-        },
-        {
-            "url": "https://www.acgndog.com",
-            "dsc": "次元狗"
-        }
-    ],
-    "里番": [
         {
             "url": "https://h-ciyuan.com/",
-            "dsc": "H次元"
+            "dsc": "H次元「里番｜R18」"
         },
         {
             "url": "https://hanime1.me/",
-            "dsc": "Hanime1.me"
-        }
-    ],
-    "同人": [
-        {
-            "url": "https://www.dlsite.com",
-            "dsc": "DLsiTe"
+            "dsc": "Hanime1.me「里番｜R18」"
         }
     ]
 }

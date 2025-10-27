@@ -47,6 +47,20 @@
             "dsc": "bilibili 封面提取"
         }
     ],
+    "BT 下载器": [
+        {
+            "url": "https://www.qbittorrent.org/",
+            "dsc": "qBittorrent"
+        },
+        {
+            "url": "https://www.frostwire.com/",
+            "dsc": "FrostWire"
+        },
+        {
+            "url": "https://www.utorrent.com/",
+            "dsc": "uTorrent"
+        }
+    ],
     "搜图": [
         {
             "url": "https://www.iqdb.org",
