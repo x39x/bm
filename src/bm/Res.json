@@ -69,42 +69,6 @@
             "dsc": "射手网"
         }
     ],
-    "磁力搜索": [
-        {
-            "url": "https://ningmengso.com",
-            "dsc": "磁力柠檬"
-        },
-        {
-            "url": "https://www.btsearch.love/en",
-            "dsc": "BTSearch"
-        },
-        {
-            "url": "https://www.alipansou.com",
-            "dsc": "猫狸盘搜"
-        }
-    ],
-    "网盘搜索": [
-        {
-            "url": "https://www.alipansou.com",
-            "dsc": "猫狸盘搜"
-        },
-        {
-            "url": "https://www.tianyiso.com/",
-            "dsc": "天逸搜"
-        },
-        {
-            "url": "https://ysxjjkl.souyisou.top/",
-            "dsc": "百度网盘搜索"
-        },
-        {
-            "url": "https://kuakezy.cc",
-            "dsc": "夸克资源社"
-        },
-        {
-            "url": "https://www.kuafuzy.com",
-            "dsc": "夸父资源"
-        }
-    ],
     "无损音乐下载": [
         {
             "url": "https://flac.life/",
@@ -155,6 +119,70 @@
         {
             "url": "http://www.songe.cc",
             "dsc": "多站合一音乐搜索 2"
+        }
+    ],
+    "磁力搜索": [
+        {
+            "url": "https://ningmengso.com",
+            "dsc": "磁力柠檬"
+        },
+        {
+            "url": "https://www.btsearch.love/en",
+            "dsc": "BTSearch"
+        },
+        {
+            "url": "https://www.alipansou.com",
+            "dsc": "猫狸盘搜"
+        }
+    ],
+    "网盘搜索": [
+        {
+            "url": "https://www.alipansou.com",
+            "dsc": "猫狸盘搜"
+        },
+        {
+            "url": "https://www.tianyiso.com/",
+            "dsc": "天逸搜"
+        },
+        {
+            "url": "https://ysxjjkl.souyisou.top/",
+            "dsc": "百度网盘搜索"
+        },
+        {
+            "url": "https://kuakezy.cc",
+            "dsc": "夸克资源社"
+        },
+        {
+            "url": "https://www.kuafuzy.com",
+            "dsc": "夸父资源"
+        }
+    ],
+    "BT 下载器": [
+        {
+            "url": "https://www.qbittorrent.org/",
+            "dsc": "qBittorrent"
+        },
+        {
+            "url": "https://www.frostwire.com/",
+            "dsc": "FrostWire"
+        },
+        {
+            "url": "https://www.utorrent.com/",
+            "dsc": "uTorrent"
+        }
+    ],
+    "MISC": [
+        {
+            "url": "http://www.zhaotaici.cn/",
+            "dsc": "找台词"
+        },
+        {
+            "url": "https://www.iqdb.org",
+            "dsc": "聚合搜图"
+        },
+        {
+            "url": "https://saucenao.com",
+            "dsc": "SauceNAO搜图"
         }
     ],
     "ASMR": [
