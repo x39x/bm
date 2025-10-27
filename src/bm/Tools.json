@@ -47,6 +47,22 @@
             "dsc": "bilibili 封面提取"
         }
     ],
+    "搜图": [
+        {
+            "url": "https://www.iqdb.org",
+            "dsc": "聚合搜图"
+        },
+        {
+            "url": "https://saucenao.com",
+            "dsc": "SauceNAO"
+        }
+    ],
+    "MISC": [
+        {
+            "url": "http://www.zhaotaici.cn/",
+            "dsc": "找台词"
+        }
+    ],
     "Net": [
         {
             "url": "https://dnsspeedtest.online",
