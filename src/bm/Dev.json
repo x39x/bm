@@ -35,6 +35,18 @@
     ],
     "前端": [
         {
+            "url": "https://realfavicongenerator.net",
+            "dsc": "Real Favicon Generator"
+        },
+        {
+            "url": "https://favicon.io",
+            "dsc": "favicon.io"
+        },
+        {
+            "url": "https://www.favicon-generator.org",
+            "dsc": "favicon generator"
+        },
+        {
             "url": "https://doc.cherrychat.org",
             "dsc": "TypeScript & Node 平滑文档"
         },
