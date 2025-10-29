@@ -2,7 +2,7 @@
     "社区｜在线": [
         {
             "url": "https://bangumi.tv",
-            "dsc": "bangumi｜番組計画"
+            "dsc": "bangumi｜番組計画「论坛」"
         },
         {
             "url": "https://www.hacg.me",
@@ -72,6 +72,10 @@
         }
     ],
     "BT｜网盘下载": [
+        {
+            "url": "https://vcb-s.com",
+            "dsc": "VCB-Studio"
+        },
         {
             "url": "https://dmhy.anoneko.com",
             "dsc": "動漫花園"
