@@ -128,14 +128,6 @@
         {
             "url": "https://www.dmguo.org",
             "dsc": "動漫國字幕組"
-        },
-        {
-            "url": "https://tokyo-tosho.net",
-            "dsc": "東京 図書館「生肉」"
-        },
-        {
-            "url": "https://www.tokyotosho.info",
-            "dsc": "東京 図書館「备份」"
         }
     ],
     "漫画｜在线、下载": [
@@ -162,6 +154,24 @@
         {
             "url": "https://www.mangabz.com",
             "dsc": "Mangabz"
+        }
+    ],
+    "同人": [
+        {
+            "url": "https://tokyo-tosho.net",
+            "dsc": "東京 図書館「生肉」"
+        },
+        {
+            "url": "https://www.tokyotosho.info",
+            "dsc": "東京 図書館「备份」"
+        },
+        {
+            "url": "https://e-hentai.org/",
+            "dsc": "E Hentai「R18」"
+        },
+        {
+            "url": "https://www.dlsite.com",
+            "dsc": "DLsiTe"
         }
     ],
     "MISC": [
