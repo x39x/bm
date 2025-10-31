@@ -29,6 +29,10 @@
             "dsc": "30天自制C++服务器"
         },
         {
+            "url": "https://github.com/imageworks/pystring",
+            "dsc": "PyString"
+        },
+        {
             "url": "https://github.com/ossrs/srs",
             "dsc": "SRS is a simple, high-efficiency, real-time media server"
         }

@@ -5,14 +5,14 @@
     };
 </script>
 
-<!-- navbar -->
 <nav class="navbar">
-    <div>
+    <div class="nav-link">
         {#each data.slugs as slug}
-            <a href={"/" + slug} class="nav-link">{slug}</a>
+            <a href={"/" + slug}>{slug}</a>
         {/each}
     </div>
 </nav>
 
-<!-- content -->
-<slot />
+<main class="content">
+    <slot />
+</main>

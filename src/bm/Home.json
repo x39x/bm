@@ -9,6 +9,10 @@
             "dsc": "CodeWars"
         },
         {
+            "url": "https://github.com/hehonghui/awesome-english-ebooks",
+            "dsc": "Awesome English Ebooks"
+        },
+        {
             "url": "https://grep.app/",
             "dsc": "Github grep"
         }
@@ -17,6 +21,22 @@
         {
             "url": "https://www.topgoer.com",
             "dsc": "Go语言中文文档"
+        },
+        {
+            "url": "https://draven.co/golang/",
+            "dsc": "Go 语言设计与实现"
+        },
+        {
+            "url": "https://liaoxuefeng.com/books/makefile/introduction/index.html",
+            "dsc": "Makefile 教程"
+        },
+        {
+            "url": "https://github.com/buo/homebrew-cask-upgrade",
+            "dsc": "homebrew cask upgrade"
+        },
+        {
+            "url": "https://support.apple.com/en-hk/guide/mac-help/mchlp2271/mac",
+            "dsc": "Create keyboard shortcuts for apps on Mac"
         }
     ],
     "Miku": [
