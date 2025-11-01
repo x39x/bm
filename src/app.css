@@ -19,6 +19,7 @@
 .content {
     flex: 1;
     margin-left: 200px;
+    text-autospace: normal;
 }
 
 /* phone */

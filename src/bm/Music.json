@@ -1,0 +1,80 @@
+{
+    "无损音乐下载": [
+        {
+            "url": "https://flac.life/",
+            "dsc": "无损生活"
+        },
+        {
+            "url": "https://www.hifini.com",
+            "dsc": "HiFINI（已关站，以下备份站均为蹭热度，但能用）"
+        },
+        {
+            "url": "https://www.hifiti.com/",
+            "dsc": "hifiTi"
+        },
+        {
+            "url": "https://hifinie.com",
+            "dsc": "hifiniE"
+        },
+        {
+            "url": "https://hifiki.com/",
+            "dsc": "hifiKi"
+        }
+    ],
+    "音乐下载": [
+        {
+            "url": "https://tonzhon.whamon.com",
+            "dsc": "铜钟"
+        },
+        {
+            "url": "https://tonzhon.com",
+            "dsc": "铜钟「备份」"
+        },
+        {
+            "url": "https://5sing.kugou.com",
+            "dsc": "5Sing"
+        },
+        {
+            "url": "https://xiageba.com",
+            "dsc": "下歌吧"
+        },
+        {
+            "url": "https://www.acgjc.com",
+            "dsc": "ACG漫音社"
+        }
+    ],
+    "聚合音乐搜索": [
+        {
+            "url": "https://www.yeyulingfeng.com/tools/music",
+            "dsc": "多站合一音乐搜索 1"
+        },
+        {
+            "url": "http://www.songe.cc",
+            "dsc": "多站合一音乐搜索 2"
+        }
+    ],
+    "动漫音乐": [
+        {
+            "url": "https://www.acgjc.com",
+            "dsc": "ACG漫音社"
+        }
+    ],
+    "ASMR": [
+        {
+            "url": "https://eatasmr.com/",
+            "dsc": "聆聽，放鬆身心"
+        },
+        {
+            "url": "https://www.asmr.one/",
+            "dsc": "Kikoeru「R18」"
+        },
+        {
+            "url": "https://hentaiasmr.moe/",
+            "dsc": "HenTai ASMR「R18」"
+        },
+        {
+            "url": "https://japaneseasmr.com/",
+            "dsc": "Japan ASMR「R18」"
+        }
+    ]
+}

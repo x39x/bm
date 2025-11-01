@@ -1,0 +1,51 @@
+{
+    "BT 下载器": [
+        {
+            "url": "https://www.qbittorrent.org/",
+            "dsc": "qBittorrent"
+        },
+        {
+            "url": "https://www.frostwire.com/",
+            "dsc": "FrostWire"
+        },
+        {
+            "url": "https://www.utorrent.com/",
+            "dsc": "uTorrent"
+        }
+    ],
+
+    "Mac 软件下载": [
+        {
+            "url": "https://appstorrent.ru",
+            "dsc": "appstorrent"
+        },
+        {
+            "url": "https://www.macat.vip",
+            "dsc": "马克喵"
+        },
+        {
+            "url": "https://macwk.com.cn",
+            "dsc": "MacVK"
+        },
+        {
+            "url": "https://foxirj.com",
+            "dsc": "佛系软件"
+        },
+        {
+            "url": "https://macapps.pro",
+            "dsc": "Mac Apps Pro"
+        },
+        {
+            "url": "https://macked.app",
+            "dsc": "MacKed"
+        },
+        {
+            "url": "https://xclient.info",
+            "dsc": "xclient"
+        },
+        {
+            "url": "https://decrypt.day/",
+            "dsc": "IPA 砸壳包"
+        }
+    ]
+}

@@ -1,126 +1,4 @@
 {
-    "在线影视": [
-        {
-            "url": "https://gaze.run",
-            "dsc": "注视影视"
-        },
-        {
-            "url": "https://www.xiaobaotv.com/",
-            "dsc": "小宝影院"
-        },
-        {
-            "url": "https://v.ikanbot.com/",
-            "dsc": "爱看机器人"
-        },
-        {
-            "url": "https://www.qindedy.com/",
-            "dsc": "亲的电影网"
-        },
-        {
-            "url": "https://ddys.pro/",
-            "dsc": "低端影视"
-        },
-        {
-            "url": "https://soupian.pro/",
-            "dsc": "搜片「在线、磁力、网盘」"
-        },
-        {
-            "url": "https://iui.su/531/",
-            "dsc": "在线影视网站汇总"
-        }
-    ],
-    "4K影视｜磁力、网盘": [
-        {
-            "url": "https://www.bugutv.vip",
-            "dsc": "布谷TV 4k影视资源"
-        },
-        {
-            "url": "https://www.dytt8899.com",
-            "dsc": "电影天堂"
-        },
-        {
-            "url": "https://www.imeijutt.tv",
-            "dsc": "美剧天堂"
-        },
-        {
-            "url": "https://www.cilixiong.org/",
-            "dsc": "磁力熊"
-        },
-        {
-            "url": "https://www.6v520.com/",
-            "dsc": "6v电影网"
-        },
-        {
-            "url": "https://zyku.me/",
-            "dsc": "资源库"
-        }
-    ],
-    "字幕": [
-        {
-            "url": "https://zimuku.org",
-            "dsc": "字幕库"
-        },
-        {
-            "url": "https://subhd.tv",
-            "dsc": "SubHD"
-        },
-        {
-            "url": "https://assrt.net",
-            "dsc": "射手网"
-        }
-    ],
-    "无损音乐下载": [
-        {
-            "url": "https://flac.life/",
-            "dsc": "无损生活"
-        },
-        {
-            "url": "https://www.hifini.com",
-            "dsc": "HiFINI（已关站，以下备份站均为蹭热度，但能用）"
-        },
-        {
-            "url": "https://www.hifiti.com/",
-            "dsc": "hifiTi"
-        },
-        {
-            "url": "https://hifinie.com",
-            "dsc": "hifiniE"
-        },
-        {
-            "url": "https://hifiki.com/",
-            "dsc": "hifiKi"
-        }
-    ],
-    "音乐搜索下载": [
-        {
-            "url": "https://tonzhon.whamon.com",
-            "dsc": "铜钟"
-        },
-        {
-            "url": "https://tonzhon.com",
-            "dsc": "铜钟「备份」"
-        },
-        {
-            "url": "https://5sing.kugou.com",
-            "dsc": "5Sing"
-        },
-        {
-            "url": "https://xiageba.com",
-            "dsc": "下歌吧"
-        },
-        {
-            "url": "https://www.acgjc.com",
-            "dsc": "ACG漫音社"
-        },
-        {
-            "url": "https://www.yeyulingfeng.com/tools/music",
-            "dsc": "多站合一音乐搜索 1"
-        },
-        {
-            "url": "http://www.songe.cc",
-            "dsc": "多站合一音乐搜索 2"
-        }
-    ],
     "磁力搜索": [
         {
             "url": "https://ningmengso.com",
@@ -129,20 +7,24 @@
         {
             "url": "https://www.btsearch.love/en",
             "dsc": "BTSearch"
-        },
-        {
-            "url": "https://www.alipansou.com",
-            "dsc": "猫狸盘搜"
         }
     ],
     "网盘搜索": [
         {
             "url": "https://www.alipansou.com",
-            "dsc": "猫狸盘搜"
+            "dsc": "猫狸盘搜「阿里」"
         },
         {
             "url": "https://www.tianyiso.com/",
-            "dsc": "天逸搜"
+            "dsc": "天逸搜「迅雷」"
+        },
+        {
+            "url": "https://xiongdipan.com/",
+            "dsc": "兄弟盘「百度」"
+        },
+        {
+            "url": "https://aipanso.com/",
+            "dsc": "爱盘搜「夸克」"
         },
         {
             "url": "https://ysxjjkl.souyisou.top/",
@@ -155,20 +37,6 @@
         {
             "url": "https://www.kuafuzy.com",
             "dsc": "夸父资源"
-        }
-    ],
-    "BT 下载器": [
-        {
-            "url": "https://www.qbittorrent.org/",
-            "dsc": "qBittorrent"
-        },
-        {
-            "url": "https://www.frostwire.com/",
-            "dsc": "FrostWire"
-        },
-        {
-            "url": "https://www.utorrent.com/",
-            "dsc": "uTorrent"
         }
     ],
     "MISC": [
@@ -185,63 +53,10 @@
             "dsc": "SauceNAO搜图"
         }
     ],
-    "ASMR": [
-        {
-            "url": "https://eatasmr.com/",
-            "dsc": "聆聽， 放鬆身心"
-        },
-        {
-            "url": "https://www.asmr.one/",
-            "dsc": "Kikoeru「R18」"
-        },
-        {
-            "url": "https://hentaiasmr.moe/",
-            "dsc": "HenTai ASMR「R18」"
-        },
-        {
-            "url": "https://japaneseasmr.com/",
-            "dsc": "Japan ASMR「R18」"
-        }
-    ],
-
     "图书": [
         {
             "url": "https://zh.annas-archive.org",
             "dsc": "安娜的档案、人类历史上最大的完全开放的图书馆"
-        }
-    ],
-    "Mac 软件下载": [
-        {
-            "url": "https://appstorrent.ru",
-            "dsc": "appstorrent"
-        },
-        {
-            "url": "https://www.macat.vip",
-            "dsc": "马克喵"
-        },
-        {
-            "url": "https://macwk.com.cn",
-            "dsc": "MacVK"
-        },
-        {
-            "url": "https://foxirj.com",
-            "dsc": "佛系软件"
-        },
-        {
-            "url": "https://macapps.pro",
-            "dsc": "Mac Apps Pro"
-        },
-        {
-            "url": "https://macked.app",
-            "dsc": "MacKed"
-        },
-        {
-            "url": "https://xclient.info",
-            "dsc": "xclient"
-        },
-        {
-            "url": "https://decrypt.day/",
-            "dsc": "IPA"
         }
     ]
 }
