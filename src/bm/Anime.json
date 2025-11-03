@@ -9,6 +9,10 @@
             "dsc": "AniList"
         },
         {
+            "url": "https://myanimelist.net",
+            "dsc": "My Anime List"
+        },
+        {
             "url": "https://zh.moegirl.org.cn",
             "dsc": "萌娘百科"
         },
