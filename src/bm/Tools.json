@@ -3,29 +3,9 @@
         {
             "url": "https://downgit.evecalm.com",
             "dsc": "DownGit"
-        },
-        {
-            "url": "https://jsonformatter.curiousconcept.com/#",
-            "dsc": "Format json"
-        },
-        {
-            "url": "https://transform.tools",
-            "dsc": "代码、配置类文件转换"
         }
     ],
-    "画图 图片处理": [
-        {
-            "url": "https://iloveimg.com/zh-cn",
-            "dsc": "在线图片编辑器"
-        },
-        {
-            "url": "https://ezgif.com/",
-            "dsc": "在线 GIF 编辑器"
-        },
-        {
-            "url": "https://www.remove.bg",
-            "dsc": "Remove bg"
-        },
+    "在线画板": [
         {
             "url": "https://excalidraw.com",
             "dsc": "Excalidraw"
@@ -37,7 +17,33 @@
         {
             "url": "https://app.diagrams.net",
             "dsc": "draw.io"
+        }
+    ],
+    "在线图片处理": [
+        {
+            "url": "https://iloveimg.com/zh-cn",
+            "dsc": "在线图片编辑器"
         },
+        {
+            "url": "https://ezgif.com/",
+            "dsc": "在线 GIF 编辑器"
+        },
+        {
+            "url": "https://www.remove.bg",
+            "dsc": "Remove bg"
+        }
+    ],
+    "json yaml etc. tools": [
+        {
+            "url": "https://jsonformatter.curiousconcept.com/#",
+            "dsc": "Format JSON"
+        },
+        {
+            "url": "https://transform.tools",
+            "dsc": "代码、配置文件转换"
+        }
+    ],
+    "其他": [
         {
             "url": "https://lachlanarthur.github.io/Braille-ASCII-Art/",
             "dsc": "ASCII Art"
@@ -57,7 +63,7 @@
             "dsc": "この素晴らしい世界に祝福を！"
         }
     ],
-    "Math": [
+    "Formula": [
         {
             "url": "https://typst.app/docs/reference/symbols/sym/",
             "dsc": "Typst Symbols"
