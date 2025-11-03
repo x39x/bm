@@ -5,6 +5,24 @@
             "dsc": "bangumi｜番組計画「论坛」"
         },
         {
+            "url": "https://zh.moegirl.org.cn",
+            "dsc": "萌娘百科"
+        },
+        {
+            "url": "https://moegirl.icu",
+            "dsc": "萌娘百科「社区版」"
+        },
+        {
+            "url": "https://www.hacg.me",
+            "dsc": "琉璃神社「资讯」"
+        }
+    ],
+    "在线": [
+        {
+            "url": "https://bangumi.tv",
+            "dsc": "bangumi｜番組計画「论坛」"
+        },
+        {
             "url": "https://www.hacg.me",
             "dsc": "琉璃神社「资讯」"
         },
