@@ -16,6 +16,10 @@
 
     "Mac 软件下载": [
         {
+            "url": "https://reederapp.com/",
+            "dsc": "reederapp RSS reader"
+        },
+        {
             "url": "https://appstorrent.ru",
             "dsc": "appstorrent"
         },
