@@ -5,6 +5,10 @@
             "dsc": "DownGit"
         },
         {
+            "url": "https://jsonformatter.curiousconcept.com/#",
+            "dsc": "Format json"
+        },
+        {
             "url": "https://transform.tools",
             "dsc": "代码、配置类文件转换"
         }
