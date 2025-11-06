@@ -1,8 +1,8 @@
 {
-    "社区｜在线": [
+    "社区｜论坛": [
         {
             "url": "https://bangumi.tv",
-            "dsc": "bangumi｜番組計画「论坛」"
+            "dsc": "bangumi｜番組計画"
         },
         {
             "url": "https://anilist.co/",
@@ -23,6 +23,65 @@
         {
             "url": "https://www.hacg.me",
             "dsc": "琉璃神社「资讯」"
+        }
+    ],
+    "BT｜网盘下载": [
+        {
+            "url": "https://vcb-s.com",
+            "dsc": "VCB-Studio"
+        },
+        {
+            "url": "https://dmhy.anoneko.com",
+            "dsc": "動漫花園"
+        },
+        {
+            "url": "https://share.dmhy.org",
+            "dsc": "動漫花園「主站」"
+        },
+        {
+            "url": "https://acg.rip",
+            "dsc": "ACG.RIP"
+        },
+        {
+            "url": "https://share.acgnx.se",
+            "dsc": "末日動漫資源庫"
+        },
+        {
+            "url": "https://nyaa.si/",
+            "dsc": "NYaa"
+        },
+        {
+            "url": "https://mikanani.me",
+            "dsc": "Mikan ｜密柑计划"
+        },
+        {
+            "url": "https://bangumi.moe",
+            "dsc": "大好きだよ｜萌番组"
+        },
+
+        {
+            "url": "https://www.kisssub.org",
+            "dsc": "爱恋动漫"
+        },
+        {
+            "url": "https://www.miobt.com",
+            "dsc": "MioBT"
+        },
+        {
+            "url": "https://www.comicat.org",
+            "dsc": "漫猫动漫"
+        },
+        {
+            "url": "https://gmgard.com/",
+            "dsc": "紳士の庭"
+        },
+        {
+            "url": "https://subs.kamigami.org",
+            "dsc": "诸神字幕组"
+        },
+        {
+            "url": "https://www.dmguo.org",
+            "dsc": "動漫國字幕組"
         }
     ],
     "在线": [
@@ -91,65 +150,6 @@
         {
             "url": "https://anime1.me/",
             "dsc": "Anime1.me"
-        }
-    ],
-    "BT｜网盘下载": [
-        {
-            "url": "https://vcb-s.com",
-            "dsc": "VCB-Studio"
-        },
-        {
-            "url": "https://dmhy.anoneko.com",
-            "dsc": "動漫花園"
-        },
-        {
-            "url": "https://share.dmhy.org",
-            "dsc": "動漫花園「主站」"
-        },
-        {
-            "url": "https://acg.rip",
-            "dsc": "ACG.RIP"
-        },
-        {
-            "url": "https://share.acgnx.se",
-            "dsc": "末日動漫資源庫"
-        },
-        {
-            "url": "https://nyaa.si/",
-            "dsc": "NYaa"
-        },
-        {
-            "url": "https://mikanani.me",
-            "dsc": "Mikan ｜密柑计划"
-        },
-        {
-            "url": "https://bangumi.moe",
-            "dsc": "大好きだよ｜萌番组"
-        },
-
-        {
-            "url": "https://www.kisssub.org",
-            "dsc": "爱恋动漫"
-        },
-        {
-            "url": "https://www.miobt.com",
-            "dsc": "MioBT"
-        },
-        {
-            "url": "https://www.comicat.org",
-            "dsc": "漫猫动漫"
-        },
-        {
-            "url": "https://gmgard.com/",
-            "dsc": "紳士の庭"
-        },
-        {
-            "url": "https://subs.kamigami.org",
-            "dsc": "诸神字幕组"
-        },
-        {
-            "url": "https://www.dmguo.org",
-            "dsc": "動漫國字幕組"
         }
     ],
     "漫画｜在线、下载": [
