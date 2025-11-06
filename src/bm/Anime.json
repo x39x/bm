@@ -1,6 +1,10 @@
 {
     "社区｜论坛": [
         {
+            "url": "https://ani.gamer.com.tw",
+            "dsc": "巴哈姆特｜動畫瘋"
+        },
+        {
             "url": "https://bangumi.tv",
             "dsc": "bangumi｜番組計画"
         },
@@ -85,14 +89,6 @@
         }
     ],
     "在线": [
-        {
-            "url": "https://www.hacg.me",
-            "dsc": "琉璃神社「资讯」"
-        },
-        {
-            "url": "https://ani.gamer.com.tw",
-            "dsc": "巴哈姆特｜動畫瘋"
-        },
         {
             "url": "https://bgm.girigirilove.com/",
             "dsc": "GiriGiri 愛動漫"
