@@ -1,4 +1,10 @@
 {
+    "常用": [
+        {
+            "url": "https://www.conventionalcommits.org/zh-hans/v1.0.0/",
+            "dsc": "commit规范"
+        }
+    ],
     "C++": [
         {
             "url": "https://www.learncpp.com",
