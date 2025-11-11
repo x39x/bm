@@ -27,6 +27,10 @@
             "dsc": "Go 语言设计与实现"
         },
         {
+            "url": "https://github.com/eddycjy/go-developer-roadmap/blob/main/image/go-developer-roadmap.png",
+            "dsc": "Go Road Map"
+        },
+        {
             "url": "https://liaoxuefeng.com/books/makefile/introduction/index.html",
             "dsc": "Makefile 教程"
         },
