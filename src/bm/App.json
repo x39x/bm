@@ -23,6 +23,12 @@
             "dsc": "reederapp RSS reader「Mac」"
         }
     ],
+    "Windows": [
+        {
+            "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+            "dsc": "SumatraPDF"
+        }
+    ],
 
     "Mac软件下载": [
         {
