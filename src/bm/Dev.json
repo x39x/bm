@@ -3,6 +3,10 @@
         {
             "url": "https://www.conventionalcommits.org/zh-hans/v1.0.0/",
             "dsc": "commit规范"
+        },
+        {
+            "url": "https://google.github.io/styleguide/",
+            "dsc": "Google Style Guides"
         }
     ],
     "C++": [
