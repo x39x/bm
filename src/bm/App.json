@@ -30,6 +30,13 @@
         }
     ],
 
+    "iPhone": [
+        {
+            "url": "https://github.com/WengYuehTing/iOS-app-info",
+            "dsc": "App ID / URL scheme / Bundle ID"
+        }
+    ],
+
     "Mac软件下载": [
         {
             "url": "https://appstorrent.ru",
