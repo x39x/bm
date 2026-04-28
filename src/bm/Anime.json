@@ -25,6 +25,10 @@
             "dsc": "萌娘百科「社区版」"
         },
         {
+            "url": "https://bbs.acgrip.com",
+            "dsc": "Anime字幕论坛"
+        },
+        {
             "url": "https://www.hacg.me",
             "dsc": "琉璃神社「资讯」"
         }
@@ -77,7 +81,7 @@
         },
         {
             "url": "https://gmgard.com/",
-            "dsc": "紳士の庭"
+            "dsc": "紳士の庭「漫画、动漫」"
         },
         {
             "url": "https://subs.kamigami.org",
@@ -158,6 +162,10 @@
             "dsc": "Kmoe「下载」"
         },
         {
+            "url": "https://komiic.com/",
+            "dsc": "Komiic漫画「在线」"
+        },
+        {
             "url": "https://www.colamanga.com",
             "dsc": "COLAMANGA「国漫、韩漫」"
         },
@@ -208,6 +216,10 @@
         {
             "url": "https://www.acgbox.link",
             "dsc": "ACG盒子「资源聚合」"
+        },
+        {
+            "url": "https://rouman5.com",
+            "dsc": "肉漫屋"
         },
         {
             "url": "https://h-ciyuan.com/",
