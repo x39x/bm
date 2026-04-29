@@ -1,10 +1,9 @@
-/* 首先，声明页面支持的颜色方案 */
+/* 声明页面支持的颜色方案 */
 :root {
     color-scheme: light dark;
 }
 
-/* 直接使用 light-dark() 函数 */
-
+/* light-dark() 函数 */
 body {
     background-color: light-dark(#ffffff, #1a1a1a);
     color: light-dark(#333333, #e0e0e0);
@@ -15,7 +14,7 @@ body {
 
 .navbar {
     position: fixed;
-    top: 82px;
+    top: 83px;
     left: 0;
     bottom: 0;
     width: 200px;
