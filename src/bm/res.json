@@ -1,0 +1,66 @@
+{
+    "种子搜索": [
+        {
+            "url": "https://ningmengso.com",
+            "dsc": "磁力柠檬"
+        },
+        {
+            "url": "https://ext.to/",
+            "dsc": "EXT"
+        },
+        {
+            "url": "https://www.btsearch.love/en",
+            "dsc": "BTSearch"
+        }
+    ],
+    "网盘搜索": [
+        {
+            "url": "https://www.alipansou.com",
+            "dsc": "猫狸盘搜「阿里」"
+        },
+        {
+            "url": "https://www.tianyiso.com/",
+            "dsc": "天逸搜「迅雷」"
+        },
+        {
+            "url": "https://xiongdipan.com/",
+            "dsc": "兄弟盘「百度」"
+        },
+        {
+            "url": "https://aipanso.com/",
+            "dsc": "爱盘搜「夸克」"
+        },
+        {
+            "url": "https://ysxjjkl.souyisou.top/",
+            "dsc": "百度网盘搜索"
+        },
+        {
+            "url": "https://kuakezy.cc",
+            "dsc": "夸克资源社"
+        },
+        {
+            "url": "https://www.kuafuzy.com",
+            "dsc": "夸父资源"
+        }
+    ],
+    "MISC": [
+        {
+            "url": "http://www.zhaotaici.cn/",
+            "dsc": "找台词"
+        },
+        {
+            "url": "https://www.iqdb.org",
+            "dsc": "聚合搜图"
+        },
+        {
+            "url": "https://saucenao.com",
+            "dsc": "SauceNAO搜图"
+        }
+    ],
+    "图书": [
+        {
+            "url": "https://zh.annas-archive.org",
+            "dsc": "安娜的档案、人类历史上最大的完全开放的图书馆"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "常用": [
+        {
+            "url": "https://dash.cloudflare.com",
+            "dsc": "Cloudflare Dashboard"
+        },
+        {
+            "url": "https://www.codewars.com",
+            "dsc": "CodeWars"
+        },
+        {
+            "url": "https://github.com/hehonghui/awesome-english-ebooks",
+            "dsc": "Awesome English Ebooks"
+        },
+        {
+            "url": "https://grep.app/",
+            "dsc": "Github grep"
+        }
+    ],
+    "TODO": [
+        {
+            "url": "https://www.topgoer.com",
+            "dsc": "Go语言中文文档"
+        },
+        {
+            "url": "https://draven.co/golang/",
+            "dsc": "Go 语言设计与实现"
+        },
+        {
+            "url": "https://liaoxuefeng.com/books/makefile/introduction/index.html",
+            "dsc": "Makefile 教程"
+        },
+        {
+            "url": "https://github.com/unknwon/building-web-applications-in-go/blob/master/articles/00.md",
+            "dsc": "build go web"
+        },
+        {
+            "url": "https://github.com/eddycjy/go-developer-roadmap/blob/main/image/go-developer-roadmap.png",
+            "dsc": "Go Road Map"
+        },
+        {
+            "url": "https://systems-programming.org/database_zh/",
+            "dsc": "database go"
+        }
+    ],
+    "Miku": [
+        {
+            "url": "https://piapro.net/intl/zh-cn_character.html",
+            "dsc": "关于Piapro的角色们"
+        }
+    ]
+}

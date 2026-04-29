@@ -1,0 +1,233 @@
+{
+    "社区｜论坛": [
+        {
+            "url": "https://ani.gamer.com.tw",
+            "dsc": "巴哈姆特｜動畫瘋"
+        },
+        {
+            "url": "https://bangumi.tv",
+            "dsc": "bangumi｜番組計画"
+        },
+        {
+            "url": "https://anilist.co/",
+            "dsc": "AniList"
+        },
+        {
+            "url": "https://myanimelist.net",
+            "dsc": "My Anime List"
+        },
+        {
+            "url": "https://zh.moegirl.org.cn",
+            "dsc": "萌娘百科"
+        },
+        {
+            "url": "https://moegirl.icu",
+            "dsc": "萌娘百科「社区版」"
+        },
+        {
+            "url": "https://bbs.acgrip.com",
+            "dsc": "Anime字幕论坛"
+        },
+        {
+            "url": "https://www.hacg.me",
+            "dsc": "琉璃神社「资讯」"
+        }
+    ],
+    "BT｜网盘下载": [
+        {
+            "url": "https://vcb-s.com",
+            "dsc": "VCB-Studio"
+        },
+        {
+            "url": "https://dmhy.anoneko.com",
+            "dsc": "動漫花園"
+        },
+        {
+            "url": "https://share.dmhy.org",
+            "dsc": "動漫花園「主站」"
+        },
+        {
+            "url": "https://acg.rip",
+            "dsc": "ACG.RIP"
+        },
+        {
+            "url": "https://share.acgnx.se",
+            "dsc": "末日動漫資源庫"
+        },
+        {
+            "url": "https://nyaa.si/",
+            "dsc": "NYaa"
+        },
+        {
+            "url": "https://mikanani.me",
+            "dsc": "Mikan ｜密柑计划"
+        },
+        {
+            "url": "https://bangumi.moe",
+            "dsc": "大好きだよ｜萌番组"
+        },
+
+        {
+            "url": "https://www.kisssub.org",
+            "dsc": "爱恋动漫"
+        },
+        {
+            "url": "https://www.miobt.com",
+            "dsc": "MioBT"
+        },
+        {
+            "url": "https://www.comicat.org",
+            "dsc": "漫猫动漫"
+        },
+        {
+            "url": "https://gmgard.com/",
+            "dsc": "紳士の庭「漫画、动漫」"
+        },
+        {
+            "url": "https://subs.kamigami.org",
+            "dsc": "诸神字幕组"
+        },
+        {
+            "url": "https://www.dmguo.org",
+            "dsc": "動漫國字幕組"
+        }
+    ],
+    "在线": [
+        {
+            "url": "https://bgm.girigirilove.com/",
+            "dsc": "GiriGiri 愛動漫"
+        },
+
+        {
+            "url": "https://www.cycity.pro",
+            "dsc": "次元城动画"
+        },
+
+        {
+            "url": "https://www.akianime.com/",
+            "dsc": "AkiAnime"
+        },
+        {
+            "url": "https://www.aafun.cc",
+            "dsc": "风铃动漫"
+        },
+        {
+            "url": "https://www.gugu3.com",
+            "dsc": "咕咕番"
+        },
+        {
+            "url": "https://omofun.in",
+            "dsc": "OmOfun"
+        },
+        {
+            "url": "https://www.dalvdm.cc",
+            "dsc": "打驴动漫"
+        },
+        {
+            "url": "https://www.age.tv",
+            "dsc": "AGE动漫"
+        },
+        {
+            "url": "https://www.moefun.net",
+            "dsc": "萌番"
+        },
+        {
+            "url": "https://yhdm6.top",
+            "dsc": "樱花动漫"
+        },
+        {
+            "url": "https://www.qdm8.com",
+            "dsc": "趣动漫"
+        },
+        {
+            "url": "https://animoe.org",
+            "dsc": "Animoe"
+        },
+        {
+            "url": "https://www.bimiacg.icu/",
+            "dsc": "bimi动漫"
+        },
+        {
+            "url": "https://anime1.me/",
+            "dsc": "Anime1.me"
+        }
+    ],
+    "漫画｜在线、下载": [
+        {
+            "url": "https://www.acgndog.com",
+            "dsc": "次元狗「下载」"
+        },
+        {
+            "url": "https://mox.moe",
+            "dsc": "Kmoe「下载」"
+        },
+        {
+            "url": "https://komiic.com/",
+            "dsc": "Komiic漫画「在线」"
+        },
+        {
+            "url": "https://www.colamanga.com",
+            "dsc": "COLAMANGA「国漫、韩漫」"
+        },
+        {
+            "url": "https://www.manhuagui.com",
+            "dsc": "漫画柜"
+        },
+        {
+            "url": "https://www.mangacopy.com",
+            "dsc": "拷贝漫画"
+        },
+        {
+            "url": "https://www.mangabz.com",
+            "dsc": "Mangabz"
+        }
+    ],
+    "同人": [
+        {
+            "url": "https://tokyo-tosho.net",
+            "dsc": "東京 図書館「生肉」"
+        },
+        {
+            "url": "https://www.tokyotosho.info",
+            "dsc": "東京 図書館「备份」"
+        },
+        {
+            "url": "https://e-hentai.org/",
+            "dsc": "E Hentai「R18」"
+        },
+        {
+            "url": "https://nhentai.net/",
+            "dsc": "N Hentai「R18」"
+        },
+        {
+            "url": "https://www.dlsite.com",
+            "dsc": "DLsiTe"
+        }
+    ],
+    "MISC": [
+        {
+            "url": "https://trace.moe/",
+            "dsc": "Trace「以图识番」"
+        },
+        {
+            "url": "https://www.acgcydh.com",
+            "dsc": "ACG次元导航「资源聚合」"
+        },
+        {
+            "url": "https://www.acgbox.link",
+            "dsc": "ACG盒子「资源聚合」"
+        },
+        {
+            "url": "https://rouman5.com",
+            "dsc": "肉漫屋「韩漫｜R18」"
+        },
+        {
+            "url": "https://h-ciyuan.com/",
+            "dsc": "H次元「里番｜R18」"
+        },
+        {
+            "url": "https://hanime1.me/",
+            "dsc": "Hanime1.me「里番｜R18」"
+        }
+    ]
+}

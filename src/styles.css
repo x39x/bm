@@ -1,0 +1,69 @@
+/* 首先，声明页面支持的颜色方案 */
+:root {
+    color-scheme: light dark;
+}
+
+/* 直接使用 light-dark() 函数 */
+
+body {
+    background-color: light-dark(#ffffff, #1a1a1a);
+    color: light-dark(#333333, #e0e0e0);
+    text-autospace: normal;
+    font-family: serif;
+    text-rendering: optimizeLegibility;
+}
+
+.navbar {
+    position: fixed;
+    top: 82px;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+    margin-left: 200px;
+}
+
+/* phone */
+@media screen and (max-width: 768px) {
+    .content {
+        margin-left: 90px;
+    }
+
+    .navbar {
+        width: 90px;
+    }
+}
+
+/* 普通状态颜色 */
+a:link,
+a:visited {
+    display: inline-block;
+    margin: 5px 0px;
+    color: light-dark(blue, #2897ff);
+    text-decoration: none;
+}
+
+/* 悬停颜色 */
+a:hover {
+    color: red;
+    color: light-dark(red, #cc372e);
+    text-decoration: none;
+}
+
+/* 点击颜色 */
+a:active {
+    color: light-dark(#0066cc, #2897ff);
+}
