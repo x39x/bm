@@ -8,7 +8,6 @@ body {
     background-color: light-dark(#ffffff, #1a1a1a);
     color: light-dark(#333333, #e0e0e0);
     text-autospace: normal;
-    font-family: serif;
     text-rendering: optimizeLegibility;
 }
 
