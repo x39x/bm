@@ -11,12 +11,12 @@
             "dsc": "打造自己的 Clash 配置并提供订阅"
         },
         {
-            "url": "https://clash-meta.gitbook.io/clash.meta-wiki-older/example/ex1",
-            "dsc": "Clash Meta 完整示例"
+            "url": "https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml",
+            "dsc": "Clash Meta 完整配置示例"
         },
         {
-            "url": "https://gist.github.com/liuran001/5ca84f7def53c70b554d3f765ff86a33",
-            "dsc": "Mihomo 懒人配置"
+            "url": "https://github.com/LongLights/sing-box_template_merge_sub-store",
+            "dsc": "singbox template"
         },
         {
             "url": "https://blog.skk.moe/post/i-have-my-unique-surge-setup/",
@@ -77,6 +77,18 @@
             "dsc": "ClashX Meta"
         },
         {
+            "url": "https://github.com/Loyalsoldier/clash-rules/tree/hidden",
+            "dsc": "ClashX origin"
+        },
+        {
+            "url": "https://github.com/ClashX-Pro/ClashX",
+            "dsc": "ClashX"
+        },
+        {
+            "url": "https://github.com/Clash-FX/ClashFX",
+            "dsc": "ClashFX"
+        },
+        {
             "url": "https://github.com/clash-verge-rev/clash-verge-rev",
             "dsc": "Clash Verge Rev"
         },
@@ -91,10 +103,6 @@
         {
             "url": "https://github.com/2dust/v2rayNG",
             "dsc": "V2rayNG"
-        },
-        {
-            "url": "https://github.com/Loyalsoldier/clash-rules",
-            "dsc": "Clash"
         },
         {
             "url": "https://clashmac.com/all-clients/",
@@ -139,7 +147,7 @@
             "dsc": "IPLeak"
         },
         {
-            "url": "https://proxy.incolumitas.com/proxy_detect.html",
+            "url": "https://incolumitas.com/",
             "dsc": "Live Proxy and VPN Detection"
         },
         {

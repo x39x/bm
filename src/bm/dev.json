@@ -5,6 +5,10 @@
             "dsc": "commit规范"
         },
         {
+            "url": "https://gh-proxy.com/",
+            "dsc": "github proxy"
+        },
+        {
             "url": "https://google.github.io/styleguide/",
             "dsc": "Google Style Guides"
         }
