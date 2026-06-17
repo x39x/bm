@@ -23,6 +23,18 @@
             "dsc": "Go语言中文文档"
         },
         {
+            "url": "https://pages.cs.wisc.edu/~remzi/OSTEP",
+            "dsc": "OSTEP"
+        },
+        {
+            "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/",
+            "dsc": "OSTEP cn"
+        },
+        {
+            "url": "https://farmerchillax.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/",
+            "dsc": "OSTEP Note"
+        },
+        {
             "url": "https://draven.co/golang/",
             "dsc": "Go 语言设计与实现"
         },
