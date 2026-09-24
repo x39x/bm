@@ -9,6 +9,10 @@
             "dsc": "github proxy"
         },
         {
+            "url": "https://grep.app/",
+            "dsc": "Github grep"
+        },
+        {
             "url": "https://google.github.io/styleguide/",
             "dsc": "Google Style Guides"
         }

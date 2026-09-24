@@ -17,12 +17,12 @@
     ],
     "ASCII Art": [
         {
-            "url": "https://github.com/koraykzly/braille-ascii-art",
+            "url": "https://lachlanarthur.github.io/Braille-ASCII-Art/",
             "dsc": "braille ascii art"
         },
         {
-            "url": "https://lachlanarthur.github.io/Braille-ASCII-Art/",
-            "dsc": "Braille ASCII Art"
+            "url": "https://github.com/koraykzly/braille-ascii-art",
+            "dsc": "braille ascii art(source code)"
         },
         {
             "url": "https://emojicombos.com/hatsune-miku-ascii-art",
@@ -49,10 +49,6 @@
         {
             "url": "https://sophiebits.com",
             "dsc": "Sophie Alpert"
-        },
-        {
-            "url": "https://wodniack.dev/",
-            "dsc": "Antoine"
         },
         {
             "url": "https://jw1.dev/",
@@ -89,10 +85,6 @@
         {
             "url": "http://www.yini.org",
             "dsc": "秘密花园"
-        },
-        {
-            "url": "https://maxleiter.com/",
-            "dsc": "Max Leiter"
         }
     ],
     "Web Gallery": [

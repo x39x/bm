@@ -5,18 +5,20 @@ import type { ParentComponent } from "solid-js";
 const modules = import.meta.glob("./bm/*.json", { eager: true });
 
 const slugs = (() => {
-    let list = Object.keys(modules)
-        .map((path) => path.split("/").pop()?.replace(".json", ""))
-        .filter(Boolean) as string[];
+    const excluded = new Set(["home", "dev", "p"]);
 
-    list = list.filter((s) => !["Home", "Dev", "p"].includes(s));
-    list = list.map((s) => {
-        return s[0].toUpperCase() + s.slice(1);
-    });
-    list.unshift("Dev");
-    list.unshift("Home");
+    const list = Object.keys(modules)
+        .map((path) =>
+            path
+                .split("/")
+                .pop()
+                ?.replace(/\.json$/, ""),
+        )
+        .filter((s): s is string => !!s)
+        .filter((s) => !excluded.has(s.toLowerCase()))
+        .map((s) => s[0].toUpperCase() + s.slice(1));
 
-    return list;
+    return ["Home", "Dev", ...new Set(list)];
 })();
 
 const Layout: ParentComponent = (props) => {

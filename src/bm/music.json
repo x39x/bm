@@ -1,20 +1,8 @@
 {
     "无损音乐下载": [
         {
-            "url": "https://flac.life/",
-            "dsc": "无损生活"
-        },
-        {
-            "url": "https://www.hifini.com",
-            "dsc": "HiFINI（已关站，以下备份站均为蹭热度，但能用）"
-        },
-        {
             "url": "https://www.hifiti.com/",
             "dsc": "hifiTi"
-        },
-        {
-            "url": "https://hifinie.com",
-            "dsc": "hifiniE"
         },
         {
             "url": "https://hifiki.com/",
@@ -23,12 +11,8 @@
     ],
     "音乐下载": [
         {
-            "url": "https://tonzhon.whamon.com",
-            "dsc": "铜钟"
-        },
-        {
             "url": "https://tonzhon.com",
-            "dsc": "铜钟「备份」"
+            "dsc": "铜钟"
         },
         {
             "url": "https://5sing.kugou.com",

@@ -69,10 +69,6 @@
         {
             "url": "https://xclient.info",
             "dsc": "xclient"
-        },
-        {
-            "url": "https://decrypt.day/",
-            "dsc": "IPA 砸壳包"
         }
     ]
 }

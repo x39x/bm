@@ -1,20 +1,12 @@
 {
     "在线观看": [
         {
-            "url": "https://gaze.run",
-            "dsc": "注视影视"
-        },
-        {
             "url": "https://www.xiaobaotv.com/",
             "dsc": "小宝影院"
         },
         {
             "url": "https://v.ikanbot.com/",
             "dsc": "爱看机器人"
-        },
-        {
-            "url": "https://www.qindedy.com/",
-            "dsc": "亲的电影网"
         },
         {
             "url": "https://soupian.pro/",
@@ -29,10 +21,6 @@
         {
             "url": "https://www.dytt8899.com",
             "dsc": "电影天堂"
-        },
-        {
-            "url": "https://www.imeijutt.tv",
-            "dsc": "美剧天堂"
         },
         {
             "url": "https://www.cilixiong.org/",
@@ -55,10 +43,6 @@
         {
             "url": "https://subhd.tv",
             "dsc": "SubHD"
-        },
-        {
-            "url": "https://assrt.net",
-            "dsc": "射手网"
         }
     ]
 }

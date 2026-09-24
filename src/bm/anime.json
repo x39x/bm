@@ -86,10 +86,6 @@
         {
             "url": "https://subs.kamigami.org",
             "dsc": "诸神字幕组"
-        },
-        {
-            "url": "https://www.dmguo.org",
-            "dsc": "動漫國字幕組"
         }
     ],
     "在线": [
@@ -108,10 +104,6 @@
             "dsc": "AkiAnime"
         },
         {
-            "url": "https://www.aafun.cc",
-            "dsc": "风铃动漫"
-        },
-        {
             "url": "https://www.gugu3.com",
             "dsc": "咕咕番"
         },
@@ -120,32 +112,12 @@
             "dsc": "OmOfun"
         },
         {
-            "url": "https://www.dalvdm.cc",
-            "dsc": "打驴动漫"
-        },
-        {
-            "url": "https://www.age.tv",
-            "dsc": "AGE动漫"
-        },
-        {
-            "url": "https://www.moefun.net",
-            "dsc": "萌番"
-        },
-        {
             "url": "https://yhdm6.top",
             "dsc": "樱花动漫"
         },
         {
-            "url": "https://www.qdm8.com",
-            "dsc": "趣动漫"
-        },
-        {
             "url": "https://animoe.org",
             "dsc": "Animoe"
-        },
-        {
-            "url": "https://www.bimiacg.icu/",
-            "dsc": "bimi动漫"
         },
         {
             "url": "https://anime1.me/",
@@ -164,10 +136,6 @@
         {
             "url": "https://komiic.com/",
             "dsc": "Komiic漫画「在线」"
-        },
-        {
-            "url": "https://www.colamanga.com",
-            "dsc": "COLAMANGA「国漫、韩漫」"
         },
         {
             "url": "https://www.manhuagui.com",
@@ -208,10 +176,6 @@
         {
             "url": "https://trace.moe/",
             "dsc": "Trace「以图识番」"
-        },
-        {
-            "url": "https://www.acgcydh.com",
-            "dsc": "ACG次元导航「资源聚合」"
         },
         {
             "url": "https://www.acgbox.link",

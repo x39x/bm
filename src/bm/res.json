@@ -19,28 +19,12 @@
             "dsc": "猫狸盘搜「阿里」"
         },
         {
-            "url": "https://www.tianyiso.com/",
-            "dsc": "天逸搜「迅雷」"
+            "url": "https://aipanso.com",
+            "dsc": "爱盘搜"
         },
         {
-            "url": "https://xiongdipan.com/",
-            "dsc": "兄弟盘「百度」"
-        },
-        {
-            "url": "https://aipanso.com/",
-            "dsc": "爱盘搜「夸克」"
-        },
-        {
-            "url": "https://ysxjjkl.souyisou.top/",
-            "dsc": "百度网盘搜索"
-        },
-        {
-            "url": "https://kuakezy.cc",
+            "url": "https://kuakezy.top",
             "dsc": "夸克资源社"
-        },
-        {
-            "url": "https://www.kuafuzy.com",
-            "dsc": "夸父资源"
         }
     ],
     "MISC": [
@@ -59,8 +43,8 @@
     ],
     "图书": [
         {
-            "url": "https://zh.annas-archive.org",
-            "dsc": "安娜的档案、人类历史上最大的完全开放的图书馆"
+            "url": "https://annas-archive.is/zh-tw",
+            "dsc": "安娜的档案"
         }
     ]
 }

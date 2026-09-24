@@ -3,10 +3,6 @@
         {
             "url": "https://downgit.evecalm.com",
             "dsc": "DownGit"
-        },
-        {
-            "url": "https://tool.lvtao.net/",
-            "dsc": "Dev Tools"
         }
     ],
     "在线画板": [
@@ -51,17 +47,19 @@
             "dsc": "代码、配置文件转换"
         }
     ],
-    "其他": [
+    "Net": [
         {
-            "url": "https://lachlanarthur.github.io/Braille-ASCII-Art/",
-            "dsc": "ASCII Art"
+            "url": "https://ip.skk.moe/",
+            "dsc": "ip.skk.moe"
         },
         {
-            "url": "https://bilibiliq.com",
-            "dsc": "bilibili 封面提取"
-        }
-    ],
-    "Net": [
+            "url": "https://ip111.cn",
+            "dsc": "IP111"
+        },
+        {
+            "url": "https://ipleak.net",
+            "dsc": "IPLeak"
+        },
         {
             "url": "https://dnsspeedtest.online",
             "dsc": "DNS Speed Test Benchmark - Find the Fastest DNS Server for Your Location"

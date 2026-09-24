@@ -1,7 +1,7 @@
 {
     "资料": [
         {
-            "url": "https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html",
+            "url": "https://shadowsockshelp.github.io",
             "dsc": "Shadowsocks 的前世今生"
         }
     ],
@@ -25,16 +25,8 @@
     ],
     "自建": [
         {
-            "url": "https://github.com/XTLS/Xray-core/discussions/715",
-            "dsc": "Xray UUID"
-        },
-        {
             "url": "https://xtls.github.io/document/level-0/",
             "dsc": "XTLS 文档"
-        },
-        {
-            "url": "https://github.com/XTLS/Xray-examples/blob/main/VLESS-TCP-XTLS-Vision/README.md",
-            "dsc": "VLESS XTLS VISION"
         },
         {
             "url": "https://github.com/XTLS/REALITY",
@@ -77,10 +69,6 @@
             "dsc": "ClashX Meta"
         },
         {
-            "url": "https://github.com/Loyalsoldier/clash-rules/tree/hidden",
-            "dsc": "ClashX origin"
-        },
-        {
             "url": "https://github.com/ClashX-Pro/ClashX",
             "dsc": "ClashX"
         },
@@ -105,15 +93,11 @@
             "dsc": "V2rayNG"
         },
         {
-            "url": "https://clashmac.com/all-clients/",
-            "dsc": "More"
+            "url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+            "dsc": "Clash Meta for Android"
         }
     ],
     "Web UI": [
-        {
-            "url": "https://v2raya.org/",
-            "dsc": "V2rayA"
-        },
         {
             "url": "https://github.com/haishanh/yacd",
             "dsc": "Yet Another Clash Dashboard"
@@ -125,27 +109,27 @@
     ],
     "Tools": [
         {
+            "url": "https://github.com/MetaCubeX/meta-rules-dat",
+            "dsc": "mihomo rules"
+        },
+        {
+            "url": "https://github.com/Loyalsoldier/clash-rules",
+            "dsc": "clash rules"
+        },
+        {
+            "url": "https://github.com/SukkaW/Surge",
+            "dsc": "SukkaW rules"
+        },
+        {
             "url": "https://github.com/qier222/proxy-provider-converter",
             "dsc": "Proxy Provider Converter"
         },
         {
             "url": "https://gfw.report",
             "dsc": "GFW Report"
-        },
-        {
-            "url": "https://shadowsockshelp.github.io",
-            "dsc": "Shadowsocks 导航"
         }
     ],
     "Ip DNS Proxy": [
-        {
-            "url": "https://ip111.cn",
-            "dsc": "IP111"
-        },
-        {
-            "url": "https://ipleak.net",
-            "dsc": "IPLeak"
-        },
         {
             "url": "https://incolumitas.com/",
             "dsc": "Live Proxy and VPN Detection"
