@@ -1,20 +1,16 @@
 {
     "BT下载器": [
         {
-            "url": "https://www.qbittorrent.org/",
-            "dsc": "qBittorrent「全平台」"
+            "url": "https://transmissionbt.com/",
+            "dsc": "transmission"
         },
         {
-            "url": "https://www.frostwire.com/",
-            "dsc": "FrostWire「全平台」"
+            "url": "https://www.qbittorrent.org/",
+            "dsc": "qBittorrent"
         },
         {
             "url": "https://www.bitcomet.com/",
-            "dsc": "比特彗星「全平台」"
-        },
-        {
-            "url": "https://www.utorrent.com/",
-            "dsc": "uTorrent「全平台」"
+            "dsc": "比特彗星"
         }
     ],
     "Rss": [
