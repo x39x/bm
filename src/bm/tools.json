@@ -1,8 +1,12 @@
 {
-    "常用": [
+    "综合": [
         {
             "url": "https://downgit.evecalm.com",
             "dsc": "DownGit"
+        },
+        {
+            "url": "https://toolb.cn/",
+            "dsc": "toolb"
         }
     ],
     "在线画板": [
@@ -65,12 +69,16 @@
             "dsc": "IPLeak"
         },
         {
+            "url": "https://dns.icoa.cn/",
+            "dsc": "公共 dns/ntp 服务"
+        },
+        {
             "url": "https://dnsspeedtest.online",
             "dsc": "DNS Speed Test Benchmark - Find the Fastest DNS Server for Your Location"
         },
         {
             "url": "/p",
-            "dsc": "この素晴らしい世界に祝福を！"
+            "dsc": "紅葉"
         }
     ],
     "Formula": [
