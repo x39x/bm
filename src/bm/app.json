@@ -1,16 +1,16 @@
 {
     "BT下载器": [
         {
-            "url": "https://transmissionbt.com/",
-            "dsc": "transmission"
-        },
-        {
             "url": "https://www.qbittorrent.org/",
             "dsc": "qBittorrent"
         },
         {
             "url": "https://www.bitcomet.com/",
-            "dsc": "比特彗星"
+            "dsc": "bitcomet"
+        },
+        {
+            "url": "https://transmissionbt.com/",
+            "dsc": "transmission"
         }
     ],
     "Rss": [
