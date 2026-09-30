@@ -135,7 +135,7 @@
         },
         {
             "url": "https://komiic.com/",
-            "dsc": "Komiic漫画「在线」"
+            "dsc": "Komiic"
         },
         {
             "url": "https://www.manhuagui.com",
@@ -148,6 +148,14 @@
         {
             "url": "https://www.mangabz.com",
             "dsc": "Mangabz"
+        },
+        {
+            "url": "https://www.sgflp.com/",
+            "dsc": "sgflp"
+        },
+        {
+            "url": "https://www.8comic.com",
+            "dsc": "8comic"
         }
     ],
     "同人": [
