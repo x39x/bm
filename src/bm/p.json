@@ -164,5 +164,23 @@
             "url": "https://sms-activate.guru/cn",
             "dsc": "电话卡"
         }
+    ],
+    "seagull": [
+        {
+            "url": "https://www.nthu.cc",
+            "dsc": "NTHU"
+        },
+        {
+            "url": "https://xn--4gq62f52gdss.club",
+            "dsc": "$1"
+        },
+        {
+            "url": "https://ikuuu.eu",
+            "dsc": "ikuuu"
+        },
+        {
+            "url": "https://panel.dg5.biz",
+            "dsc": "dog"
+        }
     ]
 }
