@@ -1,5 +1,5 @@
 {
-    "BT下载器": [
+    "torrent": [
         {
             "url": "https://github.com/qbittorrent/qbittorrent",
             "dsc": "qBittorrent"
@@ -13,27 +13,13 @@
             "dsc": "transmission"
         }
     ],
-    "Rss": [
-        {
-            "url": "https://reederapp.com/",
-            "dsc": "reederapp RSS reader「Mac」"
-        }
-    ],
-    "Windows": [
+    "windows": [
         {
             "url": "https://github.com/sumatrapdfreader/sumatrapdf",
             "dsc": "SumatraPDF"
         }
     ],
-
-    "iPhone": [
-        {
-            "url": "https://github.com/WengYuehTing/iOS-app-info",
-            "dsc": "App ID / URL scheme / Bundle ID"
-        }
-    ],
-
-    "Mac软件下载": [
+    "osx": [
         {
             "url": "https://appstorrent.ru",
             "dsc": "appstorrent"
@@ -65,6 +51,10 @@
         {
             "url": "https://xclient.info",
             "dsc": "xclient"
+        },
+        {
+            "url": "https://reederapp.com/",
+            "dsc": "reederapp RSS reader"
         }
     ]
 }

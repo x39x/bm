@@ -7,6 +7,10 @@
         {
             "url": "https://toolb.cn/",
             "dsc": "toolb"
+        },
+        {
+            "url": "https://github.com/WengYuehTing/iOS-app-info",
+            "dsc": "iOS App ID/URL scheme/Bundle ID"
         }
     ],
     "在线画板": [
