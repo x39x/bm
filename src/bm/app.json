@@ -1,7 +1,7 @@
 {
     "BT下载器": [
         {
-            "url": "https://www.qbittorrent.org/",
+            "url": "https://github.com/qbittorrent/qbittorrent",
             "dsc": "qBittorrent"
         },
         {
