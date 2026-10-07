@@ -3,6 +3,10 @@
         {
             "url": "https://shadowsockshelp.github.io",
             "dsc": "Shadowsocks 的前世今生"
+        },
+        {
+            "url": "https://core-tutorial.argsment.com/zh",
+            "dsc": "内核字段介绍"
         }
     ],
     "教程": [
