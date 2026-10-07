@@ -7,10 +7,6 @@
     ],
     "教程": [
         {
-            "url": "https://yizhimengxin.me/2022/10/27/打造自己的Clash配置并提供订阅/",
-            "dsc": "打造自己的 Clash 配置并提供订阅"
-        },
-        {
             "url": "https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml",
             "dsc": "Clash Meta 完整配置示例"
         },
@@ -89,10 +85,6 @@
             "dsc": "Clash Nyanpasu(Win/macOS/Linux)"
         },
         {
-            "url": "https://github.com/2dust/v2rayN",
-            "dsc": "V2rayN(Win/macOS/Linux)"
-        },
-        {
             "url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
             "dsc": "Clash Meta for Android"
         },
@@ -103,10 +95,6 @@
         {
             "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
             "dsc": "NekoBox(Android)"
-        },
-        {
-            "url": "https://github.com/2dust/v2rayNG",
-            "dsc": "V2rayNG(Android)"
         }
     ],
     "Web UI": [
