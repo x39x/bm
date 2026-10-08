@@ -7,13 +7,13 @@
         "push": "node push.ts"
     },
     "devDependencies": {
-        "solid-devtools": "^0.34.3",
-        "typescript": "^5.7.2",
-        "vite": "^7.1.4",
-        "vite-plugin-solid": "^2.11.8"
+        "solid-devtools": "^0.34.5",
+        "typescript": "^5.9.3",
+        "vite": "^7.3.7",
+        "vite-plugin-solid": "^2.11.14"
     },
     "dependencies": {
-        "@solidjs/router": "^0.16.1",
-        "solid-js": "^1.9.5"
+        "@solidjs/router": "^0.16.3",
+        "solid-js": "^1.9.16"
     }
 }
