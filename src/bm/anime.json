@@ -35,57 +35,52 @@
     ],
     "BT｜网盘下载": [
         {
-            "url": "https://vcb-s.com",
-            "dsc": "VCB-Studio"
-        },
-        {
-            "url": "https://dmhy.anoneko.com",
-            "dsc": "動漫花園"
-        },
-        {
             "url": "https://share.dmhy.org",
-            "dsc": "動漫花園「主站」"
-        },
-        {
-            "url": "https://acg.rip",
-            "dsc": "ACG.RIP"
+            "dsc": "動漫花園"
         },
         {
             "url": "https://share.acgnx.se",
             "dsc": "末日動漫資源庫"
         },
         {
-            "url": "https://nyaa.si/",
-            "dsc": "NYaa"
-        },
-        {
-            "url": "https://mikanani.me",
-            "dsc": "Mikan ｜密柑计划"
-        },
-        {
-            "url": "https://bangumi.moe",
-            "dsc": "大好きだよ｜萌番组"
-        },
-
-        {
-            "url": "https://www.kisssub.org",
-            "dsc": "爱恋动漫"
-        },
-        {
             "url": "https://www.miobt.com",
             "dsc": "MioBT"
         },
         {
+            "url": "https://nyaa.si/",
+            "dsc": "nyaa"
+        },
+        {
+            "url": "https://acg.rip",
+            "dsc": "acgrip"
+        },
+        {
+            "url": "https://mikanani.me",
+            "dsc": "密柑计划"
+        },
+        {
             "url": "https://www.comicat.org",
-            "dsc": "漫猫动漫"
+            "dsc": "漫猫动漫(miobt)"
+        },
+        {
+            "url": "https://www.kisssub.org",
+            "dsc": "爱恋动漫(miobt)"
+        },
+        {
+            "url": "https://bangumi.moe",
+            "dsc": "萌番组"
         },
         {
             "url": "https://gmgard.com/",
             "dsc": "紳士の庭「漫画、动漫」"
         },
         {
-            "url": "https://subs.kamigami.org",
-            "dsc": "诸神字幕组"
+            "url": "https://ktnbytes.com/",
+            "dsc": "ktnbytes"
+        },
+        {
+            "url": "https://vcb-s.com",
+            "dsc": "vcb-studio"
         }
     ],
     "在线": [
@@ -121,7 +116,7 @@
         },
         {
             "url": "https://anime1.me/",
-            "dsc": "Anime1.me"
+            "dsc": "Anime1"
         }
     ],
     "漫画｜在线、下载": [
@@ -195,11 +190,11 @@
         },
         {
             "url": "https://h-ciyuan.com/",
-            "dsc": "H次元「里番｜R18」"
+            "dsc": "H次元「里番」"
         },
         {
             "url": "https://hanime1.me/",
-            "dsc": "Hanime1.me「里番｜R18」"
+            "dsc": "Hanime1.me「里番」"
         }
     ]
 }

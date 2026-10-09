@@ -1,37 +1,5 @@
 {
-    "资料": [
-        {
-            "url": "https://shadowsockshelp.github.io",
-            "dsc": "Shadowsocks 的前世今生"
-        },
-        {
-            "url": "https://core-tutorial.argsment.com/zh",
-            "dsc": "内核字段介绍"
-        }
-    ],
-    "教程": [
-        {
-            "url": "https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml",
-            "dsc": "Clash Meta 完整配置示例"
-        },
-        {
-            "url": "https://github.com/LongLights/sing-box_template_merge_sub-store",
-            "dsc": "singbox template"
-        },
-        {
-            "url": "https://blog.skk.moe/post/i-have-my-unique-surge-setup/",
-            "dsc": "Surge 配置"
-        },
-        {
-            "url": "https://xtls.github.io/document/level-0/",
-            "dsc": "XTLS 文档「自建」"
-        },
-        {
-            "url": "https://github.com/XTLS/REALITY",
-            "dsc": "XTLS REALITY「自建」"
-        }
-    ],
-    "Core": [
+    "core": [
         {
             "url": "https://github.com/MetaCubeX/mihomo",
             "dsc": "Mihomo"
@@ -61,9 +29,13 @@
         {
             "url": "https://github.com/enfein/mieru",
             "dsc": "mieru"
+        },
+        {
+            "url": "https://github.com/SUDOKU-ASCII/sudoku",
+            "dsc": "sudoku"
         }
     ],
-    "Gui": [
+    "gui": [
         {
             "url": "https://nssurge.com",
             "dsc": "Surge(Apple)"
@@ -82,11 +54,11 @@
         },
         {
             "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-            "dsc": "Clash Verge Rev(Win/macOS/Linux)"
+            "dsc": "Clash Verge Rev(PC)"
         },
         {
             "url": "https://github.com/libnyanpasu/clash-nyanpasu",
-            "dsc": "Clash Nyanpasu(Win/macOS/Linux)"
+            "dsc": "Clash Nyanpasu(PC)"
         },
         {
             "url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
@@ -101,7 +73,7 @@
             "dsc": "NekoBox(Android)"
         }
     ],
-    "Web UI": [
+    "web ui": [
         {
             "url": "https://github.com/haishanh/yacd",
             "dsc": "Yet Another Clash Dashboard"
@@ -111,29 +83,7 @@
             "dsc": "Mihomo Dashboard"
         }
     ],
-    "Tools": [
-        {
-            "url": "https://github.com/MetaCubeX/meta-rules-dat",
-            "dsc": "mihomo rules"
-        },
-        {
-            "url": "https://github.com/Loyalsoldier/clash-rules",
-            "dsc": "clash rules"
-        },
-        {
-            "url": "https://github.com/SukkaW/Surge",
-            "dsc": "SukkaW rules"
-        },
-        {
-            "url": "https://github.com/qier222/proxy-provider-converter",
-            "dsc": "Proxy Provider Converter"
-        },
-        {
-            "url": "https://gfw.report",
-            "dsc": "GFW Report"
-        }
-    ],
-    "Ip DNS Proxy": [
+    "ip dns proxy": [
         {
             "url": "https://incolumitas.com/",
             "dsc": "Live Proxy and VPN Detection"
@@ -150,7 +100,7 @@
         },
         {
             "url": "https://shop.pockyt.io/",
-            "dsc": "Apple/Google等礼品卡"
+            "dsc": "礼品卡"
         },
         {
             "url": "https://sms-activate.guru/cn",
@@ -160,7 +110,7 @@
     "seagull": [
         {
             "url": "https://www.nthu.cc",
-            "dsc": "NTHU"
+            "dsc": "nthu"
         },
         {
             "url": "https://xn--4gq62f52gdss.club",

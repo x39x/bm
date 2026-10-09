@@ -7,13 +7,9 @@
         {
             "url": "https://toolb.cn/",
             "dsc": "toolb"
-        },
-        {
-            "url": "https://github.com/WengYuehTing/iOS-app-info",
-            "dsc": "iOS App ID/URL scheme/Bundle ID"
         }
     ],
-    "在线画板": [
+    "画板": [
         {
             "url": "https://excalidraw.com",
             "dsc": "Excalidraw"
@@ -27,7 +23,7 @@
             "dsc": "draw.io"
         }
     ],
-    "在线图片处理": [
+    "图": [
         {
             "url": "https://iloveimg.com/zh-cn",
             "dsc": "在线图片编辑器"
@@ -39,6 +35,10 @@
         {
             "url": "https://ezgif.com/",
             "dsc": "在线 GIF 编辑器"
+        },
+        {
+            "url": "https://www.svgrepo.com/",
+            "dsc": "SVG Repo"
         },
         {
             "url": "https://www.remove.bg",
@@ -55,7 +55,7 @@
             "dsc": "代码、配置文件转换"
         }
     ],
-    "Net": [
+    "net": [
         {
             "url": "https://ip.skk.moe/",
             "dsc": "ip.skk.moe"
@@ -66,11 +66,11 @@
         },
         {
             "url": "https://ip111.cn",
-            "dsc": "IP111"
+            "dsc": "ip111"
         },
         {
             "url": "https://ipleak.net",
-            "dsc": "IPLeak"
+            "dsc": "ipleak"
         },
         {
             "url": "https://dns.icoa.cn/",
@@ -78,25 +78,11 @@
         },
         {
             "url": "https://dnsspeedtest.online",
-            "dsc": "DNS Speed Test Benchmark"
+            "dsc": "dns speed test"
         },
         {
             "url": "/p",
             "dsc": "紅葉"
-        }
-    ],
-    "Formula": [
-        {
-            "url": "https://typst.app/docs/reference/symbols/sym/",
-            "dsc": "Typst Symbols"
-        },
-        {
-            "url": "https://kz16.top/latex/symbol/",
-            "dsc": "latex常用符号"
-        },
-        {
-            "url": "https://www.latexstudio.net",
-            "dsc": "LaTeX 工作室"
         }
     ]
 }
