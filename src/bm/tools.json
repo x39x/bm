@@ -81,6 +81,10 @@
             "dsc": "dns speed test"
         },
         {
+            "url": "https://jsdelivr.com/github",
+            "dsc": "testingcf.jsdelivr.net"
+        },
+        {
             "url": "/p",
             "dsc": "紅葉"
         }

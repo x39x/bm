@@ -2,29 +2,29 @@
     "core": [
         {
             "url": "https://github.com/MetaCubeX/mihomo",
-            "dsc": "Mihomo"
+            "dsc": "mihomo"
         },
         {
             "url": "https://github.com/SagerNet/sing-box",
-            "dsc": "Sing Box"
+            "dsc": "sing box"
         },
         {
             "url": "https://xtls.github.io/",
-            "dsc": "Xray"
+            "dsc": "xray"
         },
         {
             "url": "https://github.com/daeuniverse/dae",
-            "dsc": "Dae"
+            "dsc": "dae"
         },
         {
             "url": "https://www.v2fly.org/",
-            "dsc": "V2ray"
+            "dsc": "v2ray"
         }
     ],
     "protocol": [
         {
             "url": "https://github.com/klzgrad/naiveproxy/wiki",
-            "dsc": "NaiveProxy"
+            "dsc": "naiveproxy"
         },
         {
             "url": "https://github.com/enfein/mieru",
@@ -38,59 +38,55 @@
     "gui": [
         {
             "url": "https://nssurge.com",
-            "dsc": "Surge(Apple)"
+            "dsc": "surge(apple)"
         },
         {
             "url": "https://github.com/MetaCubeX/ClashX.Meta",
-            "dsc": "ClashX Meta(macOS)"
+            "dsc": "clashx meta(macos)"
         },
         {
             "url": "https://github.com/ClashX-Pro/ClashX",
-            "dsc": "ClashX(macOS)"
+            "dsc": "clashx(macos)"
         },
         {
             "url": "https://github.com/qr243vbi/nekobox",
-            "dsc": "NekoBox(win/linux)"
+            "dsc": "nekobox(win/linux)"
         },
         {
             "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-            "dsc": "Clash Verge Rev(PC)"
+            "dsc": "clash verge rev(pc)"
         },
         {
             "url": "https://github.com/libnyanpasu/clash-nyanpasu",
-            "dsc": "Clash Nyanpasu(PC)"
+            "dsc": "clash nyanpasu(pc)"
         },
         {
             "url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
-            "dsc": "Clash Meta for Android"
+            "dsc": "clash meta for android"
         },
         {
             "url": "https://github.com/SagerNet/sing-box-for-android",
-            "dsc": "Singbox for Android"
+            "dsc": "singbox for android"
         },
         {
             "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-            "dsc": "NekoBox(Android)"
+            "dsc": "nekobox(Android)"
         }
     ],
     "web ui": [
         {
             "url": "https://github.com/haishanh/yacd",
-            "dsc": "Yet Another Clash Dashboard"
+            "dsc": "yacd"
         },
         {
             "url": "https://github.com/MetaCubeX/metacubexd",
-            "dsc": "Mihomo Dashboard"
+            "dsc": "xd"
         }
     ],
     "ip dns proxy": [
         {
             "url": "https://incolumitas.com/",
-            "dsc": "Live Proxy and VPN Detection"
-        },
-        {
-            "url": "https://proxy.888005.xyz",
-            "dsc": "Proxy 检测"
+            "dsc": "Proxy and VPN Detection"
         }
     ],
     "其他": [
