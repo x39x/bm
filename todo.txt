@@ -1,0 +1,7 @@
+== 修改意见
+markdown 解析只收集 heading 和 带有link的list，这很好，符合我的要求
+
+但我希望这个markdown解析可以更加完善一点，你根据代码复杂度，把那些很方便实现的markdown解析添加进来，让他大致像一个正常的markdown解析行为
+
+
+

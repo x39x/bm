@@ -1,67 +1,141 @@
-/* 声明页面支持的颜色方案 */
 :root {
     color-scheme: light dark;
+
+    --bg: light-dark(#fafafa, #101010);
+    --fg: light-dark(#1d1d1f, #f5f5f7);
+    --accent: light-dark(#0066cc, #2997ff);
+    --accent-hover: light-dark(#de0202, #d3302f);
+    --border: light-dark(#e6e6e6, #262626);
+    --code-bg: light-dark(#f0f0f0, #1c1c1c);
 }
 
-/* light-dark() 函数 */
+* {
+    box-sizing: border-box;
+}
+
+html,
 body {
-    background-color: light-dark(#ffffff, #1a1a1a);
-    color: light-dark(#333333, #e0e0e0);
-    text-autospace: normal;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family:
+        system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC",
+        "Microsoft YaHei", sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 93%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
 }
 
 .navbar {
     position: fixed;
-    top: 83px;
+    top: 0;
     left: 0;
     bottom: 0;
-    width: 200px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    width: 190px;
+    padding: 39px 14px;
+    border-right: 1px solid var(--border);
     overflow-y: auto;
     scrollbar-width: none;
-}
-
-.nav-link {
     display: flex;
     flex-direction: column;
+    gap: 2px;
+}
+
+.navbar a {
+    display: block;
+    padding: 6px 12px;
+    color: var(--fg);
 }
 
 .content {
-    flex: 1;
-    margin-left: 200px;
+    margin-left: 190px;
+    padding: 48px 56px;
+    max-width: 780px;
 }
 
-/* phone */
+.content h2 {
+    margin: 39px 0 10px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.content h2:first-child {
+    margin-top: 0;
+}
+
+.content ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.content li {
+    margin: 10px 0;
+    position: relative;
+    padding-left: 1.2em;
+}
+
+.content li::before {
+    content: "⁃";
+    position: absolute;
+    left: 0;
+}
+
+.content a {
+    color: var(--accent);
+}
+.content a:hover {
+    color: var(--accent-hover);
+}
+
+.content code {
+    font-family: ui-monospace, SFMono, Menlo, Consolas, monospace;
+    font-size: 0.9em;
+    padding: 1px 5px;
+}
+
 @media screen and (max-width: 768px) {
-    .content {
-        margin-left: 90px;
-    }
-
     .navbar {
-        width: 90px;
+        position: sticky;
+        top: 0;
+        width: auto;
+        height: auto;
+        bottom: auto;
+        padding: 10px 12px;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        background: var(--bg);
+        z-index: 10;
+        overflow-x: auto;
+        overflow-y: hidden;
+        flex-direction: row;
+        gap: 4px;
+        white-space: nowrap;
     }
-}
 
-/* 普通状态颜色 */
-a:link,
-a:visited {
-    display: inline-block;
-    margin: 5px 0px;
-    color: light-dark(blue, #2897ff);
-    text-decoration: none;
-}
+    .navbar a {
+        padding: 6px 10px;
+    }
 
-/* 悬停颜色 */
-a:hover {
-    color: red;
-    color: light-dark(red, #cc372e);
-    text-decoration: none;
-}
-
-/* 点击颜色 */
-a:active {
-    color: light-dark(#0066cc, #2897ff);
+    .content {
+        margin-left: 0;
+        padding: 28px 18px 48px;
+        max-width: none;
+    }
 }
