@@ -1,4 +1,4 @@
-## 社区｜论坛
+# 社区｜论坛
 
 - [動畫瘋](https://ani.gamer.com.tw)
 - [bangumi](https://bangumi.tv)
@@ -9,7 +9,7 @@
 - [Anime字幕论坛](https://bbs.acgrip.com)
 - [琉璃神社「资讯」](https://www.hacg.me)
 
-## BT｜网盘下载
+# BT｜网盘下载
 
 - [動漫花園](https://share.dmhy.org)
 - [末日動漫資源庫](https://share.acgnx.se)
@@ -24,7 +24,7 @@
 - [ktnbytes](https://ktnbytes.com/)
 - [vcb-studio](https://vcb-s.com)
 
-## 在线
+# 在线
 
 - [GiriGiri](https://bgm.girigirilove.com/)
 - [次元城](https://www.cycity.pro)
@@ -35,7 +35,7 @@
 - [Animoe](https://animoe.org)
 - [Anime1](https://anime1.me/)
 
-## 漫画｜在线、下载
+# 漫画｜在线、下载
 
 - [次元狗「下载」](https://www.acgndog.com)
 - [Kmoe「下载」](https://mox.moe)
@@ -46,7 +46,7 @@
 - [sgflp](https://www.sgflp.com/)
 - [8comic](https://www.8comic.com)
 
-## 同人
+# 同人
 
 - [東京 図書館「生肉」](https://tokyo-tosho.net)
 - [東京 図書館「备份」](https://www.tokyotosho.info)
@@ -54,7 +54,7 @@
 - [N Hentai「R18」](https://nhentai.net/)
 - [DLsiTe](https://www.dlsite.com)
 
-## MISC
+# MISC
 
 - [Trace「以图识番」](https://trace.moe/)
 - [ACG盒子「资源聚合」](https://www.acgbox.link)

@@ -69,14 +69,29 @@ img {
     max-width: 780px;
 }
 
-.content h2 {
-    margin: 39px 0 10px;
-    font-size: 19px;
+.content h1 {
+    margin: 39px 0 13px;
+    font-size: 23px;
     font-weight: 500;
 }
 
-.content h2:first-child {
+.content h1:first-child {
     margin-top: 0;
+}
+
+.content h2 {
+    margin: 23px 19px 5px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.content h3,
+h4,
+h5,
+h6 {
+    margin: 13px 19px 3px;
+    font-size: 13px;
+    font-weight: 700;
 }
 
 .content ul {
@@ -88,7 +103,7 @@ img {
 .content li {
     margin: 10px 0;
     position: relative;
-    padding-left: 1.2em;
+    padding-left: 19px;
 }
 
 .content li::before {
@@ -107,7 +122,10 @@ img {
 .content code {
     font-family: ui-monospace, SFMono, Menlo, Consolas, monospace;
     font-size: 0.9em;
-    padding: 1px 5px;
+}
+
+.content pre {
+    padding: 13px 19px;
 }
 
 @media screen and (max-width: 768px) {

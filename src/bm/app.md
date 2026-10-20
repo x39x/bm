@@ -1,14 +1,14 @@
-## torrent
+# torrent
 
 - [qBittorrent](https://github.com/qbittorrent/qbittorrent)
 - [bitcomet](https://www.bitcomet.com/)
 - [transmission](https://transmissionbt.com/)
 
-## windows
+# windows
 
 - [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf)
 
-## osx
+# osx
 
 - [appstorrent](https://appstorrent.ru)
 - [马克喵](https://www.macat.vip)

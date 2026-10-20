@@ -1,4 +1,4 @@
-## core
+# core
 
 - [mihomo](https://github.com/MetaCubeX/mihomo)
 - [sing box](https://github.com/SagerNet/sing-box)
@@ -6,13 +6,13 @@
 - [dae](https://github.com/daeuniverse/dae)
 - [v2ray](https://www.v2fly.org/)
 
-## protocol
+# protocol
 
 - [naiveproxy](https://github.com/klzgrad/naiveproxy/wiki)
 - [mieru](https://github.com/enfein/mieru)
 - [sudoku](https://github.com/SUDOKU-ASCII/sudoku)
 
-## gui
+# gui
 
 - [surge(apple)](https://nssurge.com)
 - [clashx meta(macos)](https://github.com/MetaCubeX/ClashX.Meta)
@@ -24,20 +24,20 @@
 - [singbox for android](https://github.com/SagerNet/sing-box-for-android)
 - [nekobox(Android)](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
-## web ui
+# web ui
 
 - [yacd](https://github.com/haishanh/yacd)
 - [xd](https://github.com/MetaCubeX/metacubexd)
 
-## ip dns proxy
+# ip dns proxy
 
 - [Proxy and VPN Detection](https://incolumitas.com/)
 
-## 其他
+# 其他
 
 - [礼品卡](https://shop.pockyt.io/)
 
-## seagull
+# seagull
 
 - [nthu](https://www.nthu.cc)
 - [$1](https://xn--4gq62f52gdss.club)
