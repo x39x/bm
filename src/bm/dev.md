@@ -17,3 +17,4 @@
 
 - [哇酷社区(硬件)](https://whycan.com)
 - [iOS Bundle ID](https://github.com/WengYuehTing/iOS-app-info)
+- [vim](https://vim.rtorr.com/lang/zh_cn)
