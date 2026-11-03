@@ -29,7 +29,7 @@
 - [GiriGiri](https://bgm.girigirilove.com/)
 - [次元城](https://www.cycity.pro)
 - [AkiAnime](https://www.akianime.com/)
-- [咕咕番](https://www.gugu3.com)
+- [咕咕番](https://gugu.fan/)
 - [OmOfun](https://omofun.in)
 - [樱花动漫](https://yhdm6.top)
 - [Animoe](https://animoe.org)
